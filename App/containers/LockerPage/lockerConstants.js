@@ -1,0 +1,3 @@
+export const GET_POLICIES_REQUEST = 'lockerPage/GET_POLICIES_REQUEST';
+export const GET_POLICIES_SUCCESS = 'lockerPage/GET_POLICIES_SUCCESS';
+export const GET_POLICIES_FAILURE = 'lockerPage/GET_POLICIES_FAILURE';
