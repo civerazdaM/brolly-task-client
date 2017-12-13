@@ -23,6 +23,11 @@ This is such a cool debug tool.
 
 We used yarn for package manager, because npm > 5 is still buggy with create-native-react-app.
 
+After cloning repository we can install dependencies by running in terminal.
+```terminal
+    yarn install
+```
+
 We can start our project by running in terminal.
 ```terminal
     yarn start
